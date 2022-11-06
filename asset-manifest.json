@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mmekxis.github.io/csb-1q8b8y/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mmekxis.github.io/csb-1q8b8y/static/js/main.833f83c0.chunk.js",
+    "main.js.map": "https://mmekxis.github.io/csb-1q8b8y/static/js/main.833f83c0.chunk.js.map",
+    "runtime-main.js": "https://mmekxis.github.io/csb-1q8b8y/static/js/runtime-main.e7cbc741.js",
+    "runtime-main.js.map": "https://mmekxis.github.io/csb-1q8b8y/static/js/runtime-main.e7cbc741.js.map",
+    "static/js/2.9e6e2ec1.chunk.js": "https://mmekxis.github.io/csb-1q8b8y/static/js/2.9e6e2ec1.chunk.js",
+    "static/js/2.9e6e2ec1.chunk.js.map": "https://mmekxis.github.io/csb-1q8b8y/static/js/2.9e6e2ec1.chunk.js.map",
+    "index.html": "https://mmekxis.github.io/csb-1q8b8y/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mmekxis.github.io/csb-1q8b8y/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9e6e2ec1.chunk.js.LICENSE.txt": "https://mmekxis.github.io/csb-1q8b8y/static/js/2.9e6e2ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7cbc741.js",
+    "static/js/2.9e6e2ec1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.833f83c0.chunk.js"
+  ]
+}
